@@ -43,8 +43,3 @@ Key Insights:
 
 Output:
  Dashboard .pbix file is provided.
----
-
-## 📬 Contact
-If you have any questions about this project, feel free to connect via GitHub or LinkedIn.
-
