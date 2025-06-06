@@ -15,10 +15,10 @@ Tools Used:
 ---
 
 Visualizations Include:
-1. Sales Overtime,
-2. Sales by Region,
-3. Sales by Category,
-4. Slicer – Filter by Region and Category,
+1. Sales Overtime
+2. Sales by Region
+3. Sales by Category
+4. Slicer – Filter by Region and Category
 5. Sales and Profit Trend
 6. Sales vs Profit
 7. profit by Region
@@ -28,10 +28,10 @@ Visualizations Include:
 ---
 
 Key Insights:
- West region had the highest overall sales.
- Technology category generated the most profit.
- December showed a sales peak.
- Central region had steady growth over time.
+ 1.West region had the highest overall sales.
+ 2.Technology category generated the most profit.
+ 3.December showed a sales peak.
+ 4.Central region had steady growth over time.
 
 ---
 
