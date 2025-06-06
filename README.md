@@ -6,13 +6,7 @@ Superstore Sales Performance Dashboard
 
 Dataset:
  File: Superstore.csv
- Columns Used:
-   Order Date,
-   Region,
-   Category,
-   Sales,
-   Profit.
-
+ 
 ---
 
 Tools Used:
